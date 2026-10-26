@@ -270,7 +270,9 @@ Try these in the prompt in test_client.py and run:
 anuragdogra2192@gmail.com
 
 ---
-
+## Update
+The updated version with 6 agents, openclaw compatibility and a special frontend is PRIVATE.
+For the current demo, contact the author. 
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
